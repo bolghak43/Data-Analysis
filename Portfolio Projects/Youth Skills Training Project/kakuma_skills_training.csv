@@ -1,0 +1,1001 @@
+Trainee_ID,Gender,Age,Training_Center,Skill_Type,Completed_Training,Employment_Status,Monthly_Income_KES
+TR0001,Male,37,Windle Trust,Computing,Yes,Unemployed,2000
+TR0002,Female,32,,Hairdressing,,,0
+TR0003,Male,24,LWF Skills Hub,Computing,Yes,Unemployed,2000
+TR0004,Male,16,LWF Skills Hub,Agriculture,No,,5000
+TR0005,Male,36,NRC Center,Tailoring,Yes,Employed,2000
+TR0006,,35,NRC Center,Hairdressing,Yes,Self-Employed,7000
+TR0007,Male,28,Windle Trust,Tailoring,No,Employed,2000
+TR0008,Male,43,LWF Skills Hub,Hairdressing,Yes,Unemployed,5000
+TR0009,Male,31,LWF Skills Hub,Agriculture,Yes,Unemployed,5000
+TR0010,Female,44,LWF Skills Hub,Tailoring,No,Unemployed,5000
+TR0011,Male,28,Windle Trust,Carpentry,,Employed,7000
+TR0012,Male,29,NRC Center,Hairdressing,No,Unemployed,5000
+TR0013,Male,18,Windle Trust,Carpentry,Yes,Unemployed,0
+TR0014,Male,,NRC Center,Tailoring,Yes,Employed,5000
+TR0015,Female,21,NRC Center,Carpentry,,Self-Employed,2000
+TR0016,Male,33,Windle Trust,Carpentry,No,Self-Employed,2000
+TR0017,Female,34,,Tailoring,Yes,Unemployed,2000
+TR0018,Female,20,,,Yes,Employed,7000
+TR0019,Female,30,LWF Skills Hub,Carpentry,Yes,Unemployed,2000
+TR0020,Male,40,NRC Center,Carpentry,Yes,Employed,7000
+TR0021,Female,17,,Agriculture,Yes,Employed,7000
+TR0022,Male,25,Windle Trust,Carpentry,Yes,Self-Employed,
+TR0023,,,NRC Center,Carpentry,,,0
+TR0024,Female,33,LWF Skills Hub,,Yes,Employed,5000
+TR0025,Female,42,LWF Skills Hub,Computing,Yes,Unemployed,5000
+TR0026,Female,28,NRC Center,,Yes,Self-Employed,7000
+TR0027,Female,20,NRC Center,Carpentry,Yes,Unemployed,7000
+TR0028,Female,38,Windle Trust,Agriculture,No,Self-Employed,
+TR0029,Female,39,NRC Center,Hairdressing,Yes,Self-Employed,2000
+TR0030,Female,16,LWF Skills Hub,Hairdressing,No,Unemployed,5000
+TR0031,Male,37,NRC Center,Carpentry,Yes,,1000
+TR0032,,16,Windle Trust,Agriculture,Yes,Self-Employed,
+TR0033,Female,33,Windle Trust,Agriculture,,,
+TR0034,Female,30,Windle Trust,,Yes,Self-Employed,1000
+TR0035,Female,,Windle Trust,,Yes,Self-Employed,2000
+TR0036,Male,26,Windle Trust,Hairdressing,Yes,,7000
+TR0037,Female,36,NRC Center,Agriculture,Yes,Unemployed,5000
+TR0038,Male,41,NRC Center,Agriculture,Yes,,0
+TR0039,Male,40,NRC Center,Computing,Yes,Unemployed,5000
+TR0040,Male,37,,Computing,Yes,Employed,2000
+TR0041,Male,42,Windle Trust,Agriculture,Yes,Self-Employed,2000
+TR0042,Male,42,LWF Skills Hub,Tailoring,Yes,Employed,5000
+TR0043,Female,32,NRC Center,Agriculture,,Unemployed,2000
+TR0044,Female,28,LWF Skills Hub,Agriculture,Yes,Unemployed,1000
+TR0045,Female,,NRC Center,,Yes,Self-Employed,1000
+TR0046,Female,17,NRC Center,Computing,,Employed,2000
+TR0047,Female,24,LWF Skills Hub,Agriculture,Yes,Self-Employed,2000
+TR0048,Male,18,Windle Trust,Agriculture,Yes,Self-Employed,1000
+TR0049,Female,16,NRC Center,Agriculture,Yes,,2000
+TR0050,,36,,Computing,Yes,Employed,2000
+TR0051,Male,31,NRC Center,Agriculture,Yes,Employed,5000
+TR0052,Female,38,LWF Skills Hub,Agriculture,Yes,Employed,0
+TR0053,Male,21,Windle Trust,Carpentry,Yes,Employed,1000
+TR0054,Female,43,LWF Skills Hub,Tailoring,No,Self-Employed,5000
+TR0055,Male,32,LWF Skills Hub,Hairdressing,Yes,Self-Employed,0
+TR0056,Female,20,Windle Trust,Tailoring,No,Unemployed,
+TR0057,Female,20,LWF Skills Hub,Carpentry,Yes,Self-Employed,2000
+TR0058,Male,21,Windle Trust,Hairdressing,Yes,Self-Employed,5000
+TR0059,Male,18,NRC Center,Agriculture,Yes,Unemployed,2000
+TR0060,Male,36,Windle Trust,Carpentry,Yes,Unemployed,7000
+TR0061,Male,,NRC Center,Agriculture,Yes,Unemployed,5000
+TR0062,Male,20,LWF Skills Hub,Computing,Yes,Self-Employed,0
+TR0063,Male,36,LWF Skills Hub,Carpentry,Yes,Self-Employed,5000
+TR0064,Male,20,NRC Center,Computing,Yes,Unemployed,1000
+TR0065,,25,LWF Skills Hub,Carpentry,Yes,Unemployed,5000
+TR0066,Female,25,Windle Trust,Carpentry,Yes,,2000
+TR0067,Female,34,NRC Center,Computing,Yes,,2000
+TR0068,Male,32,LWF Skills Hub,Hairdressing,Yes,Self-Employed,7000
+TR0069,Female,36,,Tailoring,Yes,Employed,7000
+TR0070,Female,29,Windle Trust,Agriculture,No,Self-Employed,7000
+TR0071,Female,24,Windle Trust,Carpentry,Yes,Self-Employed,0
+TR0072,Female,29,LWF Skills Hub,Agriculture,No,,7000
+TR0073,,16,Windle Trust,Computing,Yes,,0
+TR0074,Female,34,NRC Center,Agriculture,Yes,Self-Employed,7000
+TR0075,Male,28,Windle Trust,Computing,Yes,,0
+TR0076,Female,28,NRC Center,Agriculture,Yes,Employed,5000
+TR0077,Female,19,NRC Center,Tailoring,No,Employed,5000
+TR0078,Female,16,Windle Trust,Tailoring,,Unemployed,2000
+TR0079,Male,32,LWF Skills Hub,,,Unemployed,0
+TR0080,Female,23,Windle Trust,Tailoring,Yes,Unemployed,1000
+TR0081,Male,,NRC Center,Tailoring,Yes,Self-Employed,2000
+TR0082,Female,43,NRC Center,Tailoring,No,,5000
+TR0083,,23,Windle Trust,Computing,Yes,Unemployed,0
+TR0084,Female,22,LWF Skills Hub,Carpentry,,Self-Employed,7000
+TR0085,Male,41,LWF Skills Hub,Agriculture,Yes,Employed,1000
+TR0086,Male,41,NRC Center,Tailoring,Yes,Self-Employed,5000
+TR0087,Female,17,NRC Center,Computing,Yes,Employed,2000
+TR0088,Male,,LWF Skills Hub,Computing,Yes,Self-Employed,0
+TR0089,Female,37,Windle Trust,Computing,Yes,Employed,1000
+TR0090,Female,18,NRC Center,Carpentry,Yes,Employed,0
+TR0091,Female,42,NRC Center,Agriculture,Yes,,7000
+TR0092,Female,33,LWF Skills Hub,Carpentry,Yes,,
+TR0093,Female,27,Windle Trust,Hairdressing,Yes,Employed,0
+TR0094,Female,,LWF Skills Hub,Computing,Yes,Unemployed,5000
+TR0095,Female,37,,Hairdressing,Yes,Self-Employed,2000
+TR0096,Female,27,Windle Trust,Tailoring,Yes,Unemployed,5000
+TR0097,Female,20,,Tailoring,Yes,Unemployed,
+TR0098,Female,42,NRC Center,Carpentry,Yes,Unemployed,
+TR0099,Female,40,LWF Skills Hub,Agriculture,Yes,Unemployed,5000
+TR0100,Male,32,,Hairdressing,Yes,Unemployed,7000
+TR0101,Male,31,Windle Trust,Agriculture,Yes,Employed,7000
+TR0102,Female,30,NRC Center,,Yes,Employed,0
+TR0103,Female,38,NRC Center,Tailoring,Yes,Employed,2000
+TR0104,,30,LWF Skills Hub,Agriculture,,Self-Employed,1000
+TR0105,Female,20,NRC Center,Agriculture,Yes,Unemployed,2000
+TR0106,Female,36,NRC Center,Tailoring,Yes,Employed,7000
+TR0107,Female,29,Windle Trust,Hairdressing,Yes,Self-Employed,5000
+TR0108,Female,17,NRC Center,,Yes,Employed,1000
+TR0109,Female,26,Windle Trust,Agriculture,Yes,Employed,0
+TR0110,Male,34,LWF Skills Hub,Hairdressing,Yes,Unemployed,1000
+TR0111,Female,22,NRC Center,Hairdressing,,Self-Employed,0
+TR0112,Male,21,LWF Skills Hub,Tailoring,Yes,Unemployed,1000
+TR0113,Female,,LWF Skills Hub,Agriculture,Yes,Unemployed,0
+TR0114,Female,17,NRC Center,Carpentry,Yes,Employed,0
+TR0115,,21,NRC Center,Agriculture,Yes,Unemployed,1000
+TR0116,Female,33,LWF Skills Hub,Computing,Yes,Self-Employed,1000
+TR0117,Male,17,NRC Center,Carpentry,Yes,Unemployed,0
+TR0118,Female,33,Windle Trust,Hairdressing,,,7000
+TR0119,Female,30,,Carpentry,Yes,Unemployed,1000
+TR0120,Male,42,,Hairdressing,Yes,Employed,2000
+TR0121,Female,34,,Hairdressing,Yes,Self-Employed,5000
+TR0122,Male,17,,Carpentry,No,,0
+TR0123,Female,35,NRC Center,Hairdressing,Yes,,
+TR0124,,40,,Hairdressing,No,Employed,5000
+TR0125,Male,,LWF Skills Hub,Computing,Yes,Employed,
+TR0126,Female,16,Windle Trust,Agriculture,No,Employed,5000
+TR0127,Female,39,LWF Skills Hub,Agriculture,Yes,,1000
+TR0128,Male,,Windle Trust,Computing,Yes,Unemployed,5000
+TR0129,Female,43,LWF Skills Hub,Carpentry,Yes,Employed,0
+TR0130,Female,38,NRC Center,,,Employed,5000
+TR0131,,25,Windle Trust,Tailoring,Yes,Self-Employed,2000
+TR0132,Male,34,Windle Trust,Tailoring,Yes,Self-Employed,1000
+TR0133,Male,32,Windle Trust,Computing,Yes,Unemployed,5000
+TR0134,Male,20,NRC Center,Computing,Yes,Self-Employed,0
+TR0135,Male,44,NRC Center,Hairdressing,Yes,Unemployed,1000
+TR0136,,19,NRC Center,Tailoring,Yes,Employed,0
+TR0137,Male,25,,Carpentry,No,Employed,7000
+TR0138,Male,39,NRC Center,Carpentry,Yes,Unemployed,2000
+TR0139,Male,32,Windle Trust,Tailoring,No,,7000
+TR0140,Male,25,,Tailoring,Yes,Unemployed,
+TR0141,Female,32,Windle Trust,Tailoring,Yes,Self-Employed,5000
+TR0142,,43,NRC Center,Computing,Yes,Employed,1000
+TR0143,Female,35,LWF Skills Hub,Computing,Yes,Self-Employed,5000
+TR0144,Female,39,Windle Trust,Computing,Yes,Unemployed,2000
+TR0145,Female,,LWF Skills Hub,Agriculture,Yes,Unemployed,2000
+TR0146,Male,17,Windle Trust,Carpentry,Yes,Employed,2000
+TR0147,Male,21,LWF Skills Hub,Carpentry,No,Self-Employed,
+TR0148,Male,36,NRC Center,Hairdressing,Yes,,1000
+TR0149,Male,17,NRC Center,Computing,Yes,Self-Employed,5000
+TR0150,Female,28,NRC Center,Agriculture,Yes,Employed,5000
+TR0151,Male,26,Windle Trust,Agriculture,Yes,Self-Employed,
+TR0152,Male,26,LWF Skills Hub,,Yes,Unemployed,2000
+TR0153,Male,31,NRC Center,Computing,Yes,,
+TR0154,Male,26,LWF Skills Hub,Hairdressing,Yes,Employed,2000
+TR0155,Male,,LWF Skills Hub,Computing,Yes,Self-Employed,5000
+TR0156,Female,30,NRC Center,Tailoring,,Self-Employed,7000
+TR0157,Male,40,NRC Center,Computing,Yes,Unemployed,0
+TR0158,Female,38,LWF Skills Hub,Tailoring,No,Self-Employed,1000
+TR0159,Male,,NRC Center,Tailoring,Yes,Unemployed,0
+TR0160,Female,,NRC Center,Hairdressing,Yes,Unemployed,5000
+TR0161,Male,26,NRC Center,Carpentry,Yes,Employed,2000
+TR0162,Male,37,Windle Trust,,No,Unemployed,
+TR0163,Female,31,LWF Skills Hub,Tailoring,Yes,Unemployed,5000
+TR0164,Female,23,LWF Skills Hub,Computing,Yes,Employed,5000
+TR0165,Female,19,Windle Trust,Carpentry,Yes,Unemployed,5000
+TR0166,Male,23,LWF Skills Hub,Carpentry,Yes,Employed,1000
+TR0167,Female,19,NRC Center,Agriculture,Yes,Self-Employed,1000
+TR0168,Male,39,LWF Skills Hub,Carpentry,Yes,Employed,7000
+TR0169,Male,40,NRC Center,Hairdressing,Yes,Unemployed,7000
+TR0170,Female,,Windle Trust,Tailoring,Yes,Employed,
+TR0171,Female,18,NRC Center,Agriculture,Yes,Unemployed,1000
+TR0172,Male,42,LWF Skills Hub,Hairdressing,Yes,Self-Employed,1000
+TR0173,Male,44,LWF Skills Hub,Computing,Yes,Employed,1000
+TR0174,,33,,Tailoring,Yes,Self-Employed,7000
+TR0175,,44,Windle Trust,,No,Unemployed,5000
+TR0176,Female,41,Windle Trust,Tailoring,Yes,,2000
+TR0177,Male,34,LWF Skills Hub,Computing,Yes,Self-Employed,
+TR0178,Male,34,NRC Center,Agriculture,Yes,Employed,1000
+TR0179,Male,,Windle Trust,Agriculture,Yes,Employed,7000
+TR0180,Male,20,LWF Skills Hub,Agriculture,Yes,Unemployed,0
+TR0181,Male,33,LWF Skills Hub,Carpentry,Yes,Self-Employed,1000
+TR0182,Male,43,Windle Trust,Hairdressing,Yes,,
+TR0183,Female,25,,Hairdressing,Yes,Employed,1000
+TR0184,Male,,Windle Trust,Tailoring,Yes,Employed,7000
+TR0185,Male,37,,,,Employed,5000
+TR0186,Male,36,NRC Center,Agriculture,Yes,Self-Employed,2000
+TR0187,Female,21,LWF Skills Hub,Agriculture,Yes,Employed,0
+TR0188,Male,16,Windle Trust,Computing,Yes,Employed,7000
+TR0189,Male,20,,Computing,Yes,Unemployed,
+TR0190,,24,Windle Trust,Agriculture,Yes,,
+TR0191,Male,27,LWF Skills Hub,Agriculture,Yes,Employed,0
+TR0192,Male,41,NRC Center,Carpentry,Yes,Self-Employed,
+TR0193,Male,,NRC Center,Hairdressing,,Self-Employed,7000
+TR0194,Male,17,NRC Center,Computing,Yes,Unemployed,1000
+TR0195,,32,LWF Skills Hub,Hairdressing,No,,5000
+TR0196,Female,29,Windle Trust,Carpentry,Yes,Unemployed,7000
+TR0197,Female,41,NRC Center,Agriculture,Yes,Self-Employed,
+TR0198,Female,28,LWF Skills Hub,Hairdressing,Yes,Unemployed,1000
+TR0199,Male,42,Windle Trust,Agriculture,Yes,Self-Employed,2000
+TR0200,Male,24,LWF Skills Hub,Agriculture,Yes,Unemployed,
+TR0201,Male,41,Windle Trust,Tailoring,Yes,Unemployed,
+TR0202,,40,LWF Skills Hub,,No,Employed,5000
+TR0203,Male,30,Windle Trust,Hairdressing,Yes,Unemployed,
+TR0204,Male,40,NRC Center,Agriculture,Yes,Employed,1000
+TR0205,Female,37,Windle Trust,Carpentry,Yes,Employed,0
+TR0206,Male,30,LWF Skills Hub,Tailoring,Yes,Employed,5000
+TR0207,Female,39,LWF Skills Hub,Agriculture,Yes,Employed,2000
+TR0208,Female,26,Windle Trust,Computing,Yes,Unemployed,
+TR0209,Female,31,NRC Center,Computing,Yes,,2000
+TR0210,Male,44,NRC Center,Tailoring,Yes,Self-Employed,5000
+TR0211,Male,32,Windle Trust,Carpentry,Yes,,
+TR0212,Male,41,Windle Trust,,Yes,Unemployed,1000
+TR0213,Male,,LWF Skills Hub,Hairdressing,,Employed,5000
+TR0214,Male,16,NRC Center,Tailoring,,Self-Employed,0
+TR0215,Male,23,Windle Trust,Carpentry,Yes,Unemployed,1000
+TR0216,Male,32,NRC Center,Hairdressing,Yes,Employed,7000
+TR0217,Female,18,Windle Trust,Computing,Yes,Self-Employed,1000
+TR0218,Male,44,Windle Trust,Computing,No,Employed,5000
+TR0219,Female,35,NRC Center,Hairdressing,Yes,,1000
+TR0220,Male,30,Windle Trust,Tailoring,Yes,Self-Employed,0
+TR0221,Male,30,Windle Trust,Computing,No,Self-Employed,0
+TR0222,Male,39,LWF Skills Hub,Agriculture,Yes,Employed,7000
+TR0223,,,Windle Trust,Hairdressing,Yes,Unemployed,
+TR0224,Female,29,Windle Trust,Hairdressing,,Employed,5000
+TR0225,,41,Windle Trust,Computing,Yes,Self-Employed,5000
+TR0226,Female,43,LWF Skills Hub,Tailoring,Yes,Employed,
+TR0227,Male,38,NRC Center,Agriculture,Yes,,0
+TR0228,Female,29,LWF Skills Hub,Tailoring,Yes,Employed,0
+TR0229,Male,39,LWF Skills Hub,Carpentry,Yes,Unemployed,1000
+TR0230,Male,,NRC Center,Carpentry,,Unemployed,7000
+TR0231,Female,28,LWF Skills Hub,Computing,Yes,Employed,7000
+TR0232,Female,41,NRC Center,Computing,Yes,Self-Employed,
+TR0233,Female,29,LWF Skills Hub,Computing,Yes,Unemployed,1000
+TR0234,Female,42,NRC Center,Carpentry,No,Employed,7000
+TR0235,Female,39,Windle Trust,Tailoring,No,Unemployed,2000
+TR0236,Female,34,LWF Skills Hub,Tailoring,Yes,Self-Employed,1000
+TR0237,Female,22,LWF Skills Hub,Computing,No,Employed,2000
+TR0238,Female,18,LWF Skills Hub,Agriculture,Yes,Employed,
+TR0239,Male,30,LWF Skills Hub,Tailoring,No,Employed,7000
+TR0240,,,Windle Trust,Carpentry,Yes,Self-Employed,2000
+TR0241,Female,29,LWF Skills Hub,Hairdressing,Yes,Unemployed,2000
+TR0242,Male,,Windle Trust,Hairdressing,,Employed,
+TR0243,,30,Windle Trust,Hairdressing,Yes,Unemployed,
+TR0244,Male,43,,Agriculture,Yes,,5000
+TR0245,Male,28,Windle Trust,,Yes,Self-Employed,7000
+TR0246,Female,33,NRC Center,,,Employed,2000
+TR0247,Male,41,NRC Center,Agriculture,,Unemployed,5000
+TR0248,Male,21,,Carpentry,,,7000
+TR0249,Male,,NRC Center,Carpentry,Yes,Employed,7000
+TR0250,Male,,,,Yes,Self-Employed,
+TR0251,Female,30,LWF Skills Hub,,Yes,Employed,2000
+TR0252,Male,40,,Computing,Yes,Employed,1000
+TR0253,Female,38,LWF Skills Hub,Agriculture,Yes,Unemployed,5000
+TR0254,Male,20,NRC Center,,Yes,Self-Employed,5000
+TR0255,Male,43,NRC Center,Agriculture,No,Employed,2000
+TR0256,Male,25,LWF Skills Hub,,Yes,Unemployed,7000
+TR0257,,22,Windle Trust,Carpentry,,Self-Employed,2000
+TR0258,Female,40,,Carpentry,No,Self-Employed,7000
+TR0259,Female,32,Windle Trust,Tailoring,Yes,Unemployed,7000
+TR0260,Male,22,Windle Trust,Agriculture,,Unemployed,
+TR0261,,37,LWF Skills Hub,Carpentry,,Unemployed,
+TR0262,Female,41,LWF Skills Hub,Tailoring,Yes,,5000
+TR0263,Male,27,LWF Skills Hub,Carpentry,Yes,Unemployed,7000
+TR0264,,40,NRC Center,Agriculture,Yes,Employed,7000
+TR0265,Male,32,Windle Trust,Hairdressing,Yes,Employed,0
+TR0266,Female,28,NRC Center,Agriculture,No,Self-Employed,1000
+TR0267,Female,35,NRC Center,Computing,Yes,Employed,
+TR0268,Female,40,LWF Skills Hub,Carpentry,Yes,Employed,0
+TR0269,Male,19,NRC Center,Carpentry,Yes,Employed,7000
+TR0270,,25,LWF Skills Hub,Computing,,Unemployed,5000
+TR0271,Female,18,Windle Trust,Computing,Yes,Self-Employed,0
+TR0272,,24,,Hairdressing,Yes,Self-Employed,1000
+TR0273,Female,28,NRC Center,Carpentry,Yes,Self-Employed,2000
+TR0274,,33,NRC Center,Carpentry,Yes,Self-Employed,0
+TR0275,Male,30,LWF Skills Hub,Hairdressing,,Employed,0
+TR0276,Female,19,LWF Skills Hub,Tailoring,Yes,Employed,1000
+TR0277,Male,30,NRC Center,Hairdressing,,Unemployed,5000
+TR0278,Female,37,Windle Trust,Agriculture,Yes,Self-Employed,0
+TR0279,Male,17,Windle Trust,,Yes,Employed,0
+TR0280,Female,30,,Computing,Yes,Employed,5000
+TR0281,Female,23,Windle Trust,Agriculture,Yes,,1000
+TR0282,Female,23,,Carpentry,Yes,Unemployed,0
+TR0283,Female,32,,Hairdressing,No,,
+TR0284,Male,27,NRC Center,Agriculture,Yes,Employed,0
+TR0285,Female,34,NRC Center,Carpentry,No,Employed,2000
+TR0286,Male,25,Windle Trust,Tailoring,Yes,Unemployed,7000
+TR0287,,24,LWF Skills Hub,Tailoring,No,,2000
+TR0288,Male,20,LWF Skills Hub,Computing,Yes,Unemployed,0
+TR0289,Male,21,Windle Trust,Carpentry,No,Unemployed,1000
+TR0290,,35,NRC Center,Tailoring,,,7000
+TR0291,Male,41,NRC Center,Hairdressing,Yes,Unemployed,2000
+TR0292,Male,17,NRC Center,Carpentry,No,Employed,5000
+TR0293,Male,42,NRC Center,Hairdressing,Yes,Self-Employed,1000
+TR0294,Female,,LWF Skills Hub,Hairdressing,,Unemployed,2000
+TR0295,Female,42,LWF Skills Hub,Tailoring,Yes,Self-Employed,5000
+TR0296,Female,28,Windle Trust,Carpentry,Yes,Self-Employed,0
+TR0297,Female,21,Windle Trust,Agriculture,Yes,,5000
+TR0298,Male,20,LWF Skills Hub,Tailoring,Yes,Unemployed,
+TR0299,,40,LWF Skills Hub,Tailoring,No,Employed,2000
+TR0300,Female,16,NRC Center,Carpentry,Yes,Unemployed,0
+TR0301,Male,36,,,Yes,Self-Employed,5000
+TR0302,,37,Windle Trust,Hairdressing,No,Self-Employed,5000
+TR0303,Male,36,LWF Skills Hub,Carpentry,No,Employed,0
+TR0304,Female,21,Windle Trust,Hairdressing,No,Unemployed,5000
+TR0305,Female,21,LWF Skills Hub,,Yes,Self-Employed,0
+TR0306,Male,38,NRC Center,Computing,No,Employed,1000
+TR0307,Female,31,Windle Trust,Agriculture,Yes,Self-Employed,2000
+TR0308,Female,19,Windle Trust,Tailoring,Yes,Employed,
+TR0309,Female,,,Carpentry,Yes,Employed,7000
+TR0310,Female,39,NRC Center,Agriculture,,Unemployed,7000
+TR0311,Female,38,Windle Trust,Computing,Yes,Self-Employed,
+TR0312,Male,,NRC Center,Computing,Yes,Unemployed,0
+TR0313,Female,38,Windle Trust,Hairdressing,Yes,Self-Employed,5000
+TR0314,Male,18,NRC Center,Agriculture,Yes,Unemployed,1000
+TR0315,Male,34,LWF Skills Hub,Hairdressing,Yes,Self-Employed,1000
+TR0316,Female,,Windle Trust,Tailoring,Yes,Unemployed,1000
+TR0317,Male,20,Windle Trust,Agriculture,Yes,Employed,1000
+TR0318,Male,19,NRC Center,Tailoring,Yes,Self-Employed,7000
+TR0319,Male,39,NRC Center,,Yes,Self-Employed,
+TR0320,Female,21,Windle Trust,Agriculture,Yes,Employed,5000
+TR0321,Female,17,LWF Skills Hub,Hairdressing,No,Unemployed,7000
+TR0322,Male,35,NRC Center,Agriculture,Yes,Self-Employed,1000
+TR0323,Female,43,NRC Center,Hairdressing,Yes,Self-Employed,0
+TR0324,Female,,NRC Center,Computing,Yes,Unemployed,2000
+TR0325,Female,19,Windle Trust,Hairdressing,Yes,Employed,2000
+TR0326,Female,30,Windle Trust,Computing,Yes,,2000
+TR0327,Male,21,Windle Trust,Hairdressing,Yes,Unemployed,7000
+TR0328,Male,37,Windle Trust,Agriculture,Yes,Unemployed,1000
+TR0329,Female,32,LWF Skills Hub,Agriculture,Yes,Self-Employed,7000
+TR0330,Female,39,LWF Skills Hub,Agriculture,Yes,Employed,
+TR0331,,21,Windle Trust,Carpentry,Yes,Employed,0
+TR0332,,34,LWF Skills Hub,Tailoring,Yes,Unemployed,0
+TR0333,Female,40,NRC Center,Agriculture,Yes,Self-Employed,
+TR0334,,17,NRC Center,Computing,Yes,Unemployed,2000
+TR0335,Female,30,NRC Center,Agriculture,Yes,Self-Employed,
+TR0336,Female,26,Windle Trust,Carpentry,No,Self-Employed,1000
+TR0337,Male,23,NRC Center,Computing,No,Self-Employed,5000
+TR0338,Male,41,LWF Skills Hub,Carpentry,Yes,,5000
+TR0339,Female,,,Computing,Yes,Employed,5000
+TR0340,,28,LWF Skills Hub,Hairdressing,Yes,Self-Employed,5000
+TR0341,Male,27,NRC Center,Tailoring,Yes,Self-Employed,2000
+TR0342,Female,,NRC Center,Tailoring,Yes,Unemployed,0
+TR0343,Male,21,NRC Center,,No,Unemployed,2000
+TR0344,Female,41,Windle Trust,Tailoring,No,Employed,5000
+TR0345,Male,37,LWF Skills Hub,Carpentry,Yes,Unemployed,2000
+TR0346,,19,Windle Trust,Carpentry,Yes,Self-Employed,5000
+TR0347,Male,34,,,,Unemployed,7000
+TR0348,Female,35,NRC Center,Tailoring,Yes,Employed,0
+TR0349,,,Windle Trust,Carpentry,Yes,Unemployed,7000
+TR0350,,35,Windle Trust,,,Unemployed,1000
+TR0351,Female,32,NRC Center,Carpentry,Yes,,2000
+TR0352,Male,27,Windle Trust,,Yes,,
+TR0353,Male,30,NRC Center,Carpentry,Yes,Self-Employed,2000
+TR0354,Female,16,NRC Center,Computing,No,Unemployed,
+TR0355,Female,41,,Carpentry,Yes,Self-Employed,5000
+TR0356,Male,29,NRC Center,Hairdressing,Yes,Unemployed,5000
+TR0357,Female,21,Windle Trust,Carpentry,Yes,Unemployed,2000
+TR0358,Female,20,NRC Center,Computing,Yes,Self-Employed,5000
+TR0359,,26,NRC Center,Computing,Yes,,7000
+TR0360,,19,Windle Trust,,Yes,Unemployed,5000
+TR0361,Female,28,,,No,Unemployed,7000
+TR0362,Male,26,LWF Skills Hub,,Yes,Employed,1000
+TR0363,Male,18,Windle Trust,Tailoring,No,Self-Employed,
+TR0364,Female,16,,Agriculture,Yes,Employed,0
+TR0365,Male,21,,Carpentry,,Self-Employed,0
+TR0366,Male,33,Windle Trust,Hairdressing,Yes,Self-Employed,0
+TR0367,Female,39,Windle Trust,Carpentry,Yes,,2000
+TR0368,Female,25,,,Yes,Self-Employed,2000
+TR0369,Male,20,Windle Trust,Computing,Yes,Employed,2000
+TR0370,,,LWF Skills Hub,Hairdressing,Yes,Employed,7000
+TR0371,Female,25,Windle Trust,Tailoring,No,Employed,2000
+TR0372,Female,27,Windle Trust,Agriculture,No,Self-Employed,1000
+TR0373,Female,17,LWF Skills Hub,Carpentry,No,Employed,
+TR0374,Female,28,NRC Center,Computing,Yes,Self-Employed,7000
+TR0375,Male,23,LWF Skills Hub,Tailoring,Yes,Employed,0
+TR0376,,17,NRC Center,Hairdressing,Yes,Employed,
+TR0377,Female,35,LWF Skills Hub,,Yes,,7000
+TR0378,Male,,LWF Skills Hub,Hairdressing,Yes,Employed,5000
+TR0379,Female,20,Windle Trust,Carpentry,Yes,Unemployed,1000
+TR0380,Male,24,NRC Center,Agriculture,Yes,Self-Employed,2000
+TR0381,Female,32,Windle Trust,Computing,Yes,Self-Employed,2000
+TR0382,Female,24,NRC Center,Computing,No,Self-Employed,1000
+TR0383,Female,26,LWF Skills Hub,Carpentry,Yes,Unemployed,1000
+TR0384,Male,30,LWF Skills Hub,Tailoring,,Self-Employed,5000
+TR0385,Male,39,NRC Center,Agriculture,Yes,Employed,2000
+TR0386,Female,21,Windle Trust,Computing,No,,2000
+TR0387,Male,38,Windle Trust,Agriculture,Yes,Employed,0
+TR0388,Male,18,Windle Trust,Computing,Yes,Self-Employed,
+TR0389,Male,32,Windle Trust,,Yes,Employed,7000
+TR0390,Male,20,LWF Skills Hub,Hairdressing,Yes,Self-Employed,0
+TR0391,Male,43,LWF Skills Hub,Computing,Yes,Employed,7000
+TR0392,Male,27,LWF Skills Hub,,Yes,Unemployed,1000
+TR0393,,33,LWF Skills Hub,Tailoring,Yes,Unemployed,7000
+TR0394,Female,29,LWF Skills Hub,Hairdressing,Yes,Unemployed,
+TR0395,Male,36,Windle Trust,Hairdressing,Yes,Unemployed,0
+TR0396,Female,39,Windle Trust,Tailoring,No,Self-Employed,5000
+TR0397,Female,26,Windle Trust,Agriculture,Yes,Employed,7000
+TR0398,Female,24,Windle Trust,Carpentry,Yes,Unemployed,7000
+TR0399,Female,,,Tailoring,Yes,Self-Employed,5000
+TR0400,,27,,Agriculture,Yes,Unemployed,0
+TR0401,Female,18,LWF Skills Hub,,Yes,Unemployed,
+TR0402,Female,18,NRC Center,Tailoring,Yes,Self-Employed,0
+TR0403,Male,16,Windle Trust,Computing,Yes,Self-Employed,1000
+TR0404,Male,23,Windle Trust,Agriculture,Yes,Employed,0
+TR0405,Female,37,LWF Skills Hub,Carpentry,Yes,Employed,1000
+TR0406,,43,Windle Trust,Computing,,Unemployed,1000
+TR0407,Female,44,Windle Trust,Tailoring,No,Unemployed,0
+TR0408,Female,23,LWF Skills Hub,Tailoring,Yes,Employed,2000
+TR0409,Female,26,NRC Center,Tailoring,Yes,Employed,0
+TR0410,Female,,NRC Center,Agriculture,Yes,Self-Employed,7000
+TR0411,Male,20,NRC Center,Agriculture,Yes,Employed,
+TR0412,Female,29,LWF Skills Hub,Computing,Yes,Employed,2000
+TR0413,Female,43,Windle Trust,Carpentry,Yes,Unemployed,1000
+TR0414,Male,18,,Computing,No,Employed,2000
+TR0415,Male,36,LWF Skills Hub,Hairdressing,Yes,Unemployed,7000
+TR0416,Male,20,Windle Trust,Tailoring,Yes,Employed,2000
+TR0417,Male,20,NRC Center,Tailoring,Yes,Self-Employed,0
+TR0418,Female,34,NRC Center,Tailoring,Yes,Employed,2000
+TR0419,Female,42,LWF Skills Hub,Computing,,Employed,
+TR0420,Female,,NRC Center,Computing,Yes,Employed,0
+TR0421,Female,41,LWF Skills Hub,Tailoring,Yes,Unemployed,5000
+TR0422,Female,19,LWF Skills Hub,Computing,Yes,Self-Employed,7000
+TR0423,Female,40,Windle Trust,Agriculture,Yes,Employed,
+TR0424,Male,28,Windle Trust,Agriculture,Yes,Unemployed,2000
+TR0425,Female,25,Windle Trust,,Yes,Self-Employed,0
+TR0426,Male,,LWF Skills Hub,Tailoring,No,Unemployed,5000
+TR0427,Male,,Windle Trust,Computing,Yes,Unemployed,0
+TR0428,Female,23,NRC Center,Computing,No,Self-Employed,7000
+TR0429,Male,23,NRC Center,Computing,Yes,,0
+TR0430,Female,22,,Hairdressing,,Unemployed,5000
+TR0431,Male,23,LWF Skills Hub,Agriculture,Yes,Unemployed,2000
+TR0432,Female,29,,Carpentry,Yes,Employed,1000
+TR0433,Male,34,LWF Skills Hub,Carpentry,Yes,,0
+TR0434,Female,44,LWF Skills Hub,Hairdressing,Yes,Self-Employed,1000
+TR0435,Female,,NRC Center,Computing,Yes,Self-Employed,7000
+TR0436,Female,16,NRC Center,Hairdressing,Yes,Self-Employed,2000
+TR0437,,38,Windle Trust,Hairdressing,Yes,Employed,2000
+TR0438,Female,30,LWF Skills Hub,Tailoring,Yes,Unemployed,0
+TR0439,Male,16,LWF Skills Hub,Agriculture,No,Unemployed,2000
+TR0440,Male,40,NRC Center,Carpentry,Yes,,0
+TR0441,Male,32,LWF Skills Hub,Computing,Yes,Employed,0
+TR0442,Female,16,NRC Center,Carpentry,,Unemployed,1000
+TR0443,Male,30,Windle Trust,,Yes,Self-Employed,2000
+TR0444,Female,38,NRC Center,Agriculture,Yes,Unemployed,0
+TR0445,Female,17,LWF Skills Hub,Carpentry,Yes,Unemployed,1000
+TR0446,Male,29,Windle Trust,Carpentry,Yes,Employed,5000
+TR0447,Male,,NRC Center,Hairdressing,Yes,Employed,1000
+TR0448,Female,,NRC Center,Agriculture,Yes,Unemployed,1000
+TR0449,Male,23,Windle Trust,Tailoring,Yes,Self-Employed,
+TR0450,Female,34,,,No,Employed,
+TR0451,Female,22,NRC Center,Carpentry,Yes,Unemployed,7000
+TR0452,Female,34,LWF Skills Hub,Computing,Yes,Employed,7000
+TR0453,Female,21,NRC Center,Tailoring,Yes,Employed,1000
+TR0454,Female,21,Windle Trust,,Yes,,0
+TR0455,Male,18,NRC Center,Tailoring,No,Unemployed,2000
+TR0456,,22,Windle Trust,,Yes,Self-Employed,1000
+TR0457,,34,Windle Trust,,Yes,Self-Employed,1000
+TR0458,Female,23,,Tailoring,No,Self-Employed,0
+TR0459,Male,,Windle Trust,Computing,Yes,Employed,5000
+TR0460,Male,35,Windle Trust,Carpentry,Yes,Unemployed,1000
+TR0461,Female,30,LWF Skills Hub,Hairdressing,Yes,Employed,5000
+TR0462,,30,Windle Trust,Carpentry,Yes,Self-Employed,5000
+TR0463,,44,,Tailoring,Yes,Self-Employed,7000
+TR0464,Male,16,LWF Skills Hub,Hairdressing,No,Unemployed,0
+TR0465,Female,35,Windle Trust,Computing,No,Employed,5000
+TR0466,Male,22,Windle Trust,Hairdressing,Yes,Self-Employed,0
+TR0467,Female,42,NRC Center,Hairdressing,Yes,Unemployed,7000
+TR0468,Male,19,LWF Skills Hub,Agriculture,Yes,Employed,
+TR0469,Male,44,NRC Center,Hairdressing,No,Employed,1000
+TR0470,Female,21,Windle Trust,Hairdressing,Yes,,5000
+TR0471,Male,40,NRC Center,Carpentry,Yes,Self-Employed,0
+TR0472,Female,16,LWF Skills Hub,Computing,Yes,Employed,2000
+TR0473,Male,44,NRC Center,Carpentry,Yes,Employed,0
+TR0474,Female,20,LWF Skills Hub,Carpentry,Yes,Self-Employed,5000
+TR0475,Male,,Windle Trust,Tailoring,Yes,Employed,7000
+TR0476,Female,38,Windle Trust,Carpentry,Yes,Self-Employed,7000
+TR0477,Male,16,LWF Skills Hub,Agriculture,,Employed,5000
+TR0478,Female,19,Windle Trust,,Yes,Self-Employed,1000
+TR0479,Male,37,Windle Trust,Tailoring,Yes,Unemployed,1000
+TR0480,Female,17,Windle Trust,Computing,No,Self-Employed,7000
+TR0481,Female,25,Windle Trust,Computing,Yes,Self-Employed,7000
+TR0482,Female,20,LWF Skills Hub,Carpentry,Yes,Unemployed,5000
+TR0483,Male,42,NRC Center,Carpentry,Yes,Employed,1000
+TR0484,Female,25,NRC Center,Carpentry,Yes,,7000
+TR0485,Male,16,Windle Trust,Computing,,Self-Employed,1000
+TR0486,Female,,NRC Center,Hairdressing,No,Employed,7000
+TR0487,Male,21,NRC Center,Agriculture,Yes,Unemployed,
+TR0488,Female,28,Windle Trust,Hairdressing,Yes,Employed,2000
+TR0489,Male,,Windle Trust,,Yes,Employed,0
+TR0490,Male,19,,Computing,No,Unemployed,7000
+TR0491,,28,,Hairdressing,Yes,Employed,2000
+TR0492,Male,39,Windle Trust,Tailoring,Yes,Unemployed,2000
+TR0493,Male,35,,Carpentry,Yes,Self-Employed,7000
+TR0494,Female,39,NRC Center,Tailoring,Yes,Employed,7000
+TR0495,Male,30,Windle Trust,Agriculture,Yes,Self-Employed,1000
+TR0496,Male,44,LWF Skills Hub,Carpentry,,Self-Employed,
+TR0497,Male,23,Windle Trust,Hairdressing,Yes,Employed,5000
+TR0498,,20,NRC Center,Agriculture,Yes,Unemployed,7000
+TR0499,Male,,LWF Skills Hub,Carpentry,Yes,Employed,5000
+TR0500,,30,NRC Center,Hairdressing,No,Self-Employed,7000
+TR0501,Male,19,NRC Center,Tailoring,Yes,Self-Employed,1000
+TR0502,Male,27,Windle Trust,Carpentry,Yes,Unemployed,5000
+TR0503,Male,28,LWF Skills Hub,Hairdressing,Yes,Employed,0
+TR0504,Female,17,NRC Center,Tailoring,Yes,Self-Employed,5000
+TR0505,Male,,NRC Center,Agriculture,Yes,Self-Employed,1000
+TR0506,Male,34,LWF Skills Hub,Agriculture,Yes,Self-Employed,5000
+TR0507,Female,34,NRC Center,Agriculture,No,Unemployed,7000
+TR0508,Male,19,NRC Center,Agriculture,Yes,Self-Employed,7000
+TR0509,Female,19,LWF Skills Hub,,Yes,Self-Employed,1000
+TR0510,Female,,LWF Skills Hub,Carpentry,Yes,,2000
+TR0511,Male,26,LWF Skills Hub,Carpentry,Yes,Employed,7000
+TR0512,Female,42,LWF Skills Hub,,Yes,Self-Employed,0
+TR0513,Male,20,,Hairdressing,Yes,Self-Employed,1000
+TR0514,Female,35,LWF Skills Hub,Hairdressing,Yes,Employed,5000
+TR0515,Female,26,Windle Trust,Agriculture,Yes,,5000
+TR0516,Male,25,Windle Trust,Tailoring,Yes,Unemployed,0
+TR0517,Female,23,Windle Trust,Hairdressing,Yes,Unemployed,7000
+TR0518,Female,21,NRC Center,Tailoring,,Unemployed,1000
+TR0519,Female,21,Windle Trust,Carpentry,Yes,Unemployed,0
+TR0520,Female,23,Windle Trust,Tailoring,Yes,Unemployed,7000
+TR0521,Female,38,,Carpentry,Yes,Unemployed,1000
+TR0522,Male,30,NRC Center,Computing,Yes,Unemployed,5000
+TR0523,Female,41,NRC Center,Computing,Yes,Employed,1000
+TR0524,Male,29,LWF Skills Hub,,Yes,Unemployed,2000
+TR0525,Female,26,NRC Center,Hairdressing,Yes,Unemployed,1000
+TR0526,Male,27,NRC Center,Agriculture,Yes,Unemployed,2000
+TR0527,,41,Windle Trust,Carpentry,No,Self-Employed,1000
+TR0528,Female,28,NRC Center,Agriculture,Yes,Employed,
+TR0529,Female,23,,Tailoring,Yes,Employed,5000
+TR0530,Female,33,NRC Center,,Yes,Employed,7000
+TR0531,Male,40,LWF Skills Hub,Computing,Yes,Unemployed,
+TR0532,,16,NRC Center,Hairdressing,Yes,Unemployed,2000
+TR0533,Male,30,NRC Center,Carpentry,Yes,Self-Employed,5000
+TR0534,Male,23,NRC Center,Carpentry,Yes,Employed,2000
+TR0535,Male,43,NRC Center,Tailoring,Yes,Unemployed,0
+TR0536,Female,26,LWF Skills Hub,Hairdressing,Yes,Employed,5000
+TR0537,,27,LWF Skills Hub,Computing,Yes,Self-Employed,0
+TR0538,Male,27,Windle Trust,Carpentry,No,Self-Employed,5000
+TR0539,Male,19,LWF Skills Hub,Carpentry,Yes,Self-Employed,2000
+TR0540,Female,31,NRC Center,Tailoring,Yes,Employed,0
+TR0541,Male,19,Windle Trust,Agriculture,Yes,Unemployed,2000
+TR0542,Female,20,Windle Trust,Computing,No,Unemployed,5000
+TR0543,Male,39,Windle Trust,Hairdressing,Yes,Self-Employed,2000
+TR0544,Female,20,NRC Center,,Yes,Unemployed,0
+TR0545,Male,23,LWF Skills Hub,,Yes,Self-Employed,0
+TR0546,Female,,NRC Center,Computing,Yes,Employed,
+TR0547,Male,32,,Agriculture,Yes,Self-Employed,1000
+TR0548,Female,,NRC Center,Carpentry,Yes,Employed,5000
+TR0549,Female,,NRC Center,Computing,Yes,Self-Employed,5000
+TR0550,,24,LWF Skills Hub,Tailoring,Yes,Unemployed,2000
+TR0551,Male,37,LWF Skills Hub,Agriculture,Yes,Unemployed,1000
+TR0552,,34,Windle Trust,Hairdressing,Yes,Self-Employed,0
+TR0553,,44,NRC Center,Carpentry,Yes,Unemployed,7000
+TR0554,Female,29,NRC Center,Computing,Yes,Unemployed,7000
+TR0555,Male,23,LWF Skills Hub,Tailoring,Yes,Unemployed,2000
+TR0556,Female,24,NRC Center,Hairdressing,No,Employed,1000
+TR0557,Female,37,NRC Center,Computing,Yes,,1000
+TR0558,Female,26,NRC Center,Computing,Yes,Employed,5000
+TR0559,Female,38,LWF Skills Hub,,Yes,Self-Employed,0
+TR0560,Female,16,Windle Trust,Tailoring,No,Unemployed,1000
+TR0561,Female,29,Windle Trust,Tailoring,Yes,Unemployed,7000
+TR0562,Male,20,NRC Center,Agriculture,Yes,Unemployed,0
+TR0563,Male,36,Windle Trust,,Yes,Self-Employed,0
+TR0564,,41,LWF Skills Hub,Hairdressing,Yes,Employed,2000
+TR0565,Female,29,LWF Skills Hub,,Yes,Employed,1000
+TR0566,Female,19,Windle Trust,Hairdressing,Yes,Unemployed,2000
+TR0567,Female,37,Windle Trust,Tailoring,Yes,Self-Employed,1000
+TR0568,Female,38,NRC Center,Carpentry,No,Self-Employed,5000
+TR0569,Male,,Windle Trust,Agriculture,Yes,Self-Employed,2000
+TR0570,Male,16,,Computing,Yes,Self-Employed,2000
+TR0571,Female,37,NRC Center,Computing,,Self-Employed,7000
+TR0572,Male,38,LWF Skills Hub,Hairdressing,Yes,Employed,2000
+TR0573,Male,34,LWF Skills Hub,Carpentry,,Employed,1000
+TR0574,Female,23,LWF Skills Hub,Tailoring,Yes,Employed,7000
+TR0575,Male,30,LWF Skills Hub,Carpentry,Yes,Unemployed,2000
+TR0576,Female,36,Windle Trust,,No,Self-Employed,
+TR0577,Male,30,LWF Skills Hub,Tailoring,No,Unemployed,5000
+TR0578,Female,24,Windle Trust,Hairdressing,Yes,Self-Employed,2000
+TR0579,Female,36,,,Yes,Employed,0
+TR0580,Female,24,Windle Trust,Computing,No,Unemployed,7000
+TR0581,Female,25,,,,Employed,0
+TR0582,Male,35,Windle Trust,Agriculture,No,Self-Employed,7000
+TR0583,Female,40,Windle Trust,Hairdressing,Yes,Self-Employed,5000
+TR0584,Female,36,,Tailoring,,Self-Employed,2000
+TR0585,Female,,Windle Trust,Agriculture,Yes,Employed,2000
+TR0586,Male,24,NRC Center,Agriculture,,Self-Employed,2000
+TR0587,Female,18,NRC Center,Carpentry,Yes,Employed,7000
+TR0588,Male,35,,,Yes,Unemployed,2000
+TR0589,Female,40,NRC Center,Carpentry,Yes,Self-Employed,0
+TR0590,Male,41,Windle Trust,Tailoring,Yes,Self-Employed,2000
+TR0591,,26,NRC Center,Tailoring,Yes,Self-Employed,5000
+TR0592,Female,21,,Hairdressing,No,Unemployed,0
+TR0593,Male,17,Windle Trust,,Yes,Self-Employed,2000
+TR0594,Female,22,LWF Skills Hub,Agriculture,Yes,Employed,2000
+TR0595,Female,33,Windle Trust,Computing,Yes,Employed,1000
+TR0596,Female,42,NRC Center,Hairdressing,Yes,Self-Employed,7000
+TR0597,Male,17,LWF Skills Hub,Tailoring,No,Self-Employed,0
+TR0598,Male,42,LWF Skills Hub,Hairdressing,,Unemployed,1000
+TR0599,,32,Windle Trust,Hairdressing,Yes,Unemployed,5000
+TR0600,Female,26,LWF Skills Hub,Hairdressing,Yes,Unemployed,7000
+TR0601,Male,42,Windle Trust,Hairdressing,Yes,Self-Employed,0
+TR0602,Female,27,Windle Trust,Computing,Yes,Unemployed,2000
+TR0603,Female,42,Windle Trust,Carpentry,No,Unemployed,0
+TR0604,Female,34,Windle Trust,Agriculture,Yes,Employed,2000
+TR0605,Male,37,NRC Center,Hairdressing,Yes,Unemployed,7000
+TR0606,Male,39,Windle Trust,Hairdressing,Yes,,2000
+TR0607,,40,LWF Skills Hub,Hairdressing,Yes,,5000
+TR0608,Female,22,NRC Center,Carpentry,Yes,,2000
+TR0609,Female,35,LWF Skills Hub,Tailoring,Yes,,5000
+TR0610,Female,21,NRC Center,Tailoring,Yes,Self-Employed,7000
+TR0611,Male,36,Windle Trust,Computing,Yes,Self-Employed,7000
+TR0612,Female,39,NRC Center,Tailoring,Yes,Unemployed,0
+TR0613,Female,16,NRC Center,Hairdressing,Yes,Self-Employed,5000
+TR0614,Female,32,LWF Skills Hub,Hairdressing,Yes,Employed,5000
+TR0615,Female,44,LWF Skills Hub,Hairdressing,,Self-Employed,1000
+TR0616,Male,26,Windle Trust,Computing,No,Unemployed,1000
+TR0617,Male,37,NRC Center,Hairdressing,Yes,Unemployed,1000
+TR0618,Female,,NRC Center,Tailoring,,Employed,2000
+TR0619,Male,43,NRC Center,Carpentry,Yes,Unemployed,1000
+TR0620,Male,,Windle Trust,Carpentry,Yes,Self-Employed,5000
+TR0621,Female,36,Windle Trust,Agriculture,Yes,,2000
+TR0622,Female,32,Windle Trust,Tailoring,Yes,Employed,7000
+TR0623,Male,22,Windle Trust,Hairdressing,Yes,Unemployed,0
+TR0624,Female,32,,Carpentry,,Self-Employed,1000
+TR0625,Male,35,LWF Skills Hub,Tailoring,Yes,Employed,
+TR0626,Female,24,NRC Center,Carpentry,Yes,Self-Employed,5000
+TR0627,Male,32,NRC Center,Hairdressing,Yes,Employed,0
+TR0628,Female,35,NRC Center,Carpentry,Yes,Unemployed,7000
+TR0629,Male,37,NRC Center,,No,Employed,0
+TR0630,Male,,NRC Center,Agriculture,Yes,Employed,1000
+TR0631,Male,43,NRC Center,Carpentry,Yes,Unemployed,5000
+TR0632,Female,44,NRC Center,,Yes,Self-Employed,
+TR0633,Male,23,NRC Center,Tailoring,No,Unemployed,7000
+TR0634,Male,,LWF Skills Hub,Tailoring,Yes,Employed,1000
+TR0635,Female,22,NRC Center,Carpentry,Yes,Unemployed,1000
+TR0636,Female,16,LWF Skills Hub,Tailoring,Yes,Employed,7000
+TR0637,Male,,,Hairdressing,Yes,Unemployed,7000
+TR0638,Male,38,NRC Center,Agriculture,Yes,Unemployed,0
+TR0639,Female,34,Windle Trust,,Yes,Self-Employed,2000
+TR0640,Female,42,Windle Trust,Tailoring,Yes,Employed,1000
+TR0641,Female,39,Windle Trust,Hairdressing,Yes,Self-Employed,0
+TR0642,Female,34,LWF Skills Hub,,No,Employed,7000
+TR0643,Female,44,Windle Trust,Carpentry,Yes,,0
+TR0644,Male,32,,Hairdressing,Yes,Employed,7000
+TR0645,,28,Windle Trust,Carpentry,Yes,Self-Employed,5000
+TR0646,Male,44,NRC Center,Carpentry,Yes,Self-Employed,7000
+TR0647,Male,31,NRC Center,Computing,No,Self-Employed,7000
+TR0648,Male,23,LWF Skills Hub,Tailoring,,Employed,7000
+TR0649,,34,LWF Skills Hub,Agriculture,Yes,,2000
+TR0650,Male,33,NRC Center,Tailoring,Yes,Self-Employed,7000
+TR0651,Male,16,,Agriculture,Yes,Self-Employed,1000
+TR0652,Female,29,,Tailoring,,Unemployed,1000
+TR0653,Male,34,Windle Trust,Carpentry,Yes,Unemployed,0
+TR0654,,30,Windle Trust,Hairdressing,,Employed,2000
+TR0655,Female,,LWF Skills Hub,,Yes,Employed,0
+TR0656,Male,17,NRC Center,Computing,Yes,Self-Employed,1000
+TR0657,Male,37,NRC Center,Agriculture,No,,1000
+TR0658,Male,43,LWF Skills Hub,Agriculture,Yes,Self-Employed,5000
+TR0659,Female,32,NRC Center,Agriculture,Yes,Self-Employed,7000
+TR0660,Female,33,Windle Trust,Carpentry,Yes,Unemployed,1000
+TR0661,Female,21,LWF Skills Hub,Agriculture,Yes,,0
+TR0662,Male,34,LWF Skills Hub,Hairdressing,Yes,Unemployed,0
+TR0663,Male,19,NRC Center,Carpentry,Yes,,7000
+TR0664,Female,16,LWF Skills Hub,Tailoring,Yes,Employed,7000
+TR0665,,23,NRC Center,Agriculture,Yes,Self-Employed,5000
+TR0666,Male,44,NRC Center,,Yes,Employed,2000
+TR0667,Female,38,NRC Center,Tailoring,No,,0
+TR0668,Female,,NRC Center,Agriculture,Yes,Unemployed,7000
+TR0669,Male,18,NRC Center,,Yes,Employed,0
+TR0670,Male,25,,Carpentry,Yes,Self-Employed,7000
+TR0671,Male,25,Windle Trust,,Yes,Self-Employed,1000
+TR0672,Female,,Windle Trust,Tailoring,Yes,Employed,0
+TR0673,Female,29,,Computing,Yes,Self-Employed,1000
+TR0674,Female,17,LWF Skills Hub,Tailoring,Yes,Self-Employed,0
+TR0675,Female,43,Windle Trust,Agriculture,Yes,Self-Employed,2000
+TR0676,Male,16,Windle Trust,Carpentry,Yes,Unemployed,
+TR0677,Female,38,Windle Trust,Carpentry,Yes,Unemployed,1000
+TR0678,Female,38,Windle Trust,,No,Employed,7000
+TR0679,Female,43,Windle Trust,Hairdressing,Yes,,2000
+TR0680,Female,33,,Computing,Yes,Self-Employed,0
+TR0681,Female,22,LWF Skills Hub,Carpentry,Yes,Unemployed,1000
+TR0682,,44,NRC Center,Agriculture,,Employed,0
+TR0683,Male,23,Windle Trust,Agriculture,Yes,Unemployed,0
+TR0684,Female,16,,Hairdressing,Yes,Self-Employed,0
+TR0685,Male,40,Windle Trust,Carpentry,Yes,Self-Employed,5000
+TR0686,Female,38,NRC Center,Tailoring,Yes,Employed,5000
+TR0687,Female,18,NRC Center,Agriculture,,Unemployed,7000
+TR0688,Male,39,Windle Trust,Hairdressing,Yes,Unemployed,1000
+TR0689,Male,,NRC Center,Carpentry,,Unemployed,2000
+TR0690,Female,42,NRC Center,Carpentry,Yes,Self-Employed,2000
+TR0691,Female,44,Windle Trust,Carpentry,Yes,Employed,2000
+TR0692,Female,23,NRC Center,Carpentry,No,Unemployed,0
+TR0693,Male,37,LWF Skills Hub,Carpentry,No,Self-Employed,5000
+TR0694,Female,40,LWF Skills Hub,Agriculture,Yes,Self-Employed,1000
+TR0695,Female,30,,Hairdressing,Yes,Self-Employed,0
+TR0696,Female,20,LWF Skills Hub,Carpentry,Yes,Unemployed,5000
+TR0697,,18,,Computing,No,Unemployed,5000
+TR0698,Female,34,Windle Trust,Computing,No,Unemployed,1000
+TR0699,Female,16,Windle Trust,Hairdressing,Yes,Unemployed,1000
+TR0700,Male,43,LWF Skills Hub,Tailoring,Yes,Unemployed,1000
+TR0701,Female,30,LWF Skills Hub,Tailoring,Yes,Unemployed,0
+TR0702,Female,23,NRC Center,Tailoring,Yes,,7000
+TR0703,Male,17,NRC Center,,Yes,Unemployed,1000
+TR0704,Female,18,LWF Skills Hub,,No,Unemployed,7000
+TR0705,Male,39,LWF Skills Hub,Agriculture,Yes,,
+TR0706,,29,LWF Skills Hub,Carpentry,Yes,Unemployed,7000
+TR0707,Female,39,LWF Skills Hub,Computing,No,Employed,2000
+TR0708,Female,29,NRC Center,Hairdressing,Yes,Self-Employed,
+TR0709,,26,LWF Skills Hub,Hairdressing,Yes,Unemployed,
+TR0710,Female,31,NRC Center,Carpentry,Yes,Employed,0
+TR0711,Male,19,,Computing,Yes,Unemployed,1000
+TR0712,Female,35,LWF Skills Hub,Tailoring,Yes,Employed,2000
+TR0713,Male,20,LWF Skills Hub,,Yes,Employed,1000
+TR0714,Female,37,NRC Center,Agriculture,Yes,,1000
+TR0715,Female,36,NRC Center,Agriculture,Yes,Employed,
+TR0716,Female,29,,Tailoring,Yes,Self-Employed,5000
+TR0717,Male,38,LWF Skills Hub,Hairdressing,Yes,Self-Employed,2000
+TR0718,,31,Windle Trust,Hairdressing,Yes,Employed,1000
+TR0719,Female,33,,Agriculture,Yes,Unemployed,1000
+TR0720,Female,22,NRC Center,Carpentry,Yes,Employed,1000
+TR0721,,,NRC Center,Tailoring,Yes,,0
+TR0722,Male,22,Windle Trust,Agriculture,Yes,Unemployed,5000
+TR0723,Female,,LWF Skills Hub,Agriculture,Yes,Self-Employed,0
+TR0724,Male,38,NRC Center,Tailoring,Yes,Self-Employed,5000
+TR0725,Male,36,LWF Skills Hub,Tailoring,Yes,,1000
+TR0726,Male,34,LWF Skills Hub,Hairdressing,No,Employed,2000
+TR0727,Male,31,Windle Trust,Carpentry,Yes,Employed,7000
+TR0728,Male,44,,Carpentry,Yes,Employed,
+TR0729,Male,34,Windle Trust,Tailoring,Yes,Employed,1000
+TR0730,,19,Windle Trust,Computing,,Unemployed,0
+TR0731,Male,44,,Agriculture,Yes,Unemployed,2000
+TR0732,Male,43,NRC Center,Agriculture,Yes,Unemployed,5000
+TR0733,Male,33,Windle Trust,Tailoring,Yes,Self-Employed,1000
+TR0734,Female,17,NRC Center,Computing,Yes,Unemployed,2000
+TR0735,Female,16,Windle Trust,Hairdressing,Yes,Employed,2000
+TR0736,Male,,LWF Skills Hub,Tailoring,Yes,Self-Employed,5000
+TR0737,Female,,LWF Skills Hub,Tailoring,Yes,Employed,2000
+TR0738,Male,,LWF Skills Hub,Agriculture,No,Employed,0
+TR0739,,26,Windle Trust,Tailoring,Yes,,0
+TR0740,Female,,LWF Skills Hub,Tailoring,Yes,Unemployed,0
+TR0741,Male,,NRC Center,Tailoring,Yes,Employed,2000
+TR0742,Female,18,,Agriculture,Yes,Employed,0
+TR0743,Female,38,LWF Skills Hub,Hairdressing,Yes,Self-Employed,5000
+TR0744,Male,38,LWF Skills Hub,,Yes,Unemployed,2000
+TR0745,Male,27,NRC Center,Tailoring,Yes,Self-Employed,7000
+TR0746,Female,35,Windle Trust,Agriculture,Yes,Self-Employed,2000
+TR0747,Male,20,NRC Center,Hairdressing,Yes,Self-Employed,5000
+TR0748,Male,20,Windle Trust,Hairdressing,Yes,Employed,7000
+TR0749,Male,21,Windle Trust,Hairdressing,No,Self-Employed,2000
+TR0750,Female,24,LWF Skills Hub,Agriculture,Yes,Self-Employed,0
+TR0751,Female,17,Windle Trust,Agriculture,Yes,Employed,1000
+TR0752,Male,36,NRC Center,Tailoring,Yes,Unemployed,1000
+TR0753,Female,27,NRC Center,Carpentry,,Unemployed,0
+TR0754,Female,18,Windle Trust,Hairdressing,,Self-Employed,1000
+TR0755,Female,35,LWF Skills Hub,Carpentry,Yes,Employed,1000
+TR0756,Female,41,LWF Skills Hub,Agriculture,Yes,Unemployed,0
+TR0757,Female,,NRC Center,Agriculture,Yes,Self-Employed,0
+TR0758,Male,27,LWF Skills Hub,Agriculture,,Self-Employed,2000
+TR0759,Male,39,Windle Trust,Carpentry,Yes,Employed,2000
+TR0760,Male,32,Windle Trust,Agriculture,No,Self-Employed,0
+TR0761,Female,25,NRC Center,Tailoring,Yes,Unemployed,5000
+TR0762,Female,,Windle Trust,Agriculture,Yes,Employed,1000
+TR0763,Male,42,NRC Center,Computing,,Unemployed,2000
+TR0764,Female,29,Windle Trust,Carpentry,Yes,,
+TR0765,,38,NRC Center,Computing,Yes,Unemployed,7000
+TR0766,Male,32,LWF Skills Hub,Agriculture,Yes,Self-Employed,
+TR0767,Male,33,Windle Trust,Tailoring,Yes,Self-Employed,
+TR0768,Female,34,Windle Trust,Hairdressing,Yes,Unemployed,7000
+TR0769,Female,32,NRC Center,Agriculture,Yes,,7000
+TR0770,Male,,NRC Center,Tailoring,Yes,Employed,7000
+TR0771,Male,24,Windle Trust,Carpentry,Yes,Employed,0
+TR0772,Male,23,NRC Center,,Yes,Self-Employed,2000
+TR0773,Male,17,,Computing,Yes,Self-Employed,
+TR0774,Female,28,,Computing,Yes,Employed,
+TR0775,Female,40,NRC Center,,Yes,Unemployed,
+TR0776,,22,Windle Trust,Tailoring,Yes,Self-Employed,7000
+TR0777,Male,24,LWF Skills Hub,Carpentry,,Unemployed,5000
+TR0778,Female,37,LWF Skills Hub,Computing,Yes,Employed,2000
+TR0779,Female,37,Windle Trust,Agriculture,Yes,Self-Employed,7000
+TR0780,Male,26,NRC Center,Hairdressing,Yes,Self-Employed,1000
+TR0781,Male,29,,Carpentry,Yes,Employed,5000
+TR0782,Male,19,LWF Skills Hub,Carpentry,Yes,Self-Employed,0
+TR0783,Female,41,Windle Trust,Tailoring,No,,5000
+TR0784,Female,41,NRC Center,Tailoring,No,Self-Employed,
+TR0785,Female,44,LWF Skills Hub,,Yes,Employed,2000
+TR0786,,28,Windle Trust,Computing,Yes,,0
+TR0787,Male,17,NRC Center,Hairdressing,Yes,Unemployed,0
+TR0788,Female,38,LWF Skills Hub,Tailoring,Yes,Unemployed,2000
+TR0789,Female,20,NRC Center,Computing,No,Unemployed,5000
+TR0790,Male,26,LWF Skills Hub,Agriculture,,Self-Employed,7000
+TR0791,Female,21,Windle Trust,Tailoring,,Self-Employed,5000
+TR0792,,33,NRC Center,Computing,No,Unemployed,1000
+TR0793,Male,36,LWF Skills Hub,Computing,,Unemployed,
+TR0794,Female,25,NRC Center,Hairdressing,Yes,Employed,5000
+TR0795,Male,19,NRC Center,Hairdressing,No,Employed,
+TR0796,Male,24,Windle Trust,Agriculture,Yes,Employed,1000
+TR0797,Male,21,NRC Center,Computing,Yes,Unemployed,1000
+TR0798,Male,17,,Computing,Yes,Unemployed,1000
+TR0799,Male,32,LWF Skills Hub,Hairdressing,Yes,,7000
+TR0800,Male,20,LWF Skills Hub,Tailoring,Yes,Employed,0
+TR0801,Male,40,LWF Skills Hub,Tailoring,Yes,Self-Employed,7000
+TR0802,Female,21,Windle Trust,Carpentry,No,Unemployed,5000
+TR0803,,41,NRC Center,Hairdressing,Yes,Self-Employed,0
+TR0804,Male,,Windle Trust,Carpentry,Yes,Self-Employed,5000
+TR0805,Female,38,NRC Center,Hairdressing,Yes,,0
+TR0806,Female,36,NRC Center,Agriculture,,Employed,7000
+TR0807,Female,25,NRC Center,,Yes,Self-Employed,1000
+TR0808,Male,37,,Agriculture,Yes,Unemployed,2000
+TR0809,Female,36,NRC Center,,Yes,Employed,1000
+TR0810,Male,42,Windle Trust,Computing,Yes,Unemployed,7000
+TR0811,Male,40,,Tailoring,Yes,Unemployed,0
+TR0812,Male,21,LWF Skills Hub,Tailoring,Yes,Employed,1000
+TR0813,Male,42,NRC Center,Carpentry,Yes,,7000
+TR0814,Female,23,Windle Trust,Hairdressing,,Unemployed,5000
+TR0815,Female,,LWF Skills Hub,Hairdressing,Yes,Employed,2000
+TR0816,Male,27,Windle Trust,Tailoring,,Unemployed,
+TR0817,Male,28,Windle Trust,Agriculture,Yes,Self-Employed,0
+TR0818,Male,40,NRC Center,Computing,Yes,Unemployed,5000
+TR0819,Female,36,LWF Skills Hub,Agriculture,,Self-Employed,7000
+TR0820,Male,22,NRC Center,Agriculture,Yes,Unemployed,2000
+TR0821,Male,25,NRC Center,Tailoring,Yes,Employed,0
+TR0822,Female,28,LWF Skills Hub,,Yes,Employed,7000
+TR0823,Female,32,LWF Skills Hub,Tailoring,Yes,Unemployed,
+TR0824,Male,41,Windle Trust,Carpentry,,Employed,1000
+TR0825,Female,36,,Agriculture,Yes,,1000
+TR0826,Female,43,Windle Trust,Hairdressing,Yes,Employed,
+TR0827,Male,41,Windle Trust,Computing,Yes,Self-Employed,7000
+TR0828,Female,29,Windle Trust,Carpentry,Yes,Unemployed,1000
+TR0829,,17,LWF Skills Hub,Hairdressing,Yes,,2000
+TR0830,Female,43,NRC Center,,Yes,,2000
+TR0831,Male,37,Windle Trust,Tailoring,Yes,Unemployed,7000
+TR0832,Male,26,NRC Center,Agriculture,,Self-Employed,1000
+TR0833,Male,16,NRC Center,Computing,Yes,Unemployed,0
+TR0834,,,LWF Skills Hub,Carpentry,Yes,Self-Employed,0
+TR0835,Male,36,,Carpentry,No,,0
+TR0836,Female,19,NRC Center,Computing,Yes,Unemployed,2000
+TR0837,Male,34,LWF Skills Hub,Hairdressing,No,Employed,1000
+TR0838,Male,41,Windle Trust,Hairdressing,Yes,Unemployed,1000
+TR0839,Female,44,NRC Center,Carpentry,Yes,Unemployed,
+TR0840,Male,36,LWF Skills Hub,,Yes,Self-Employed,
+TR0841,Male,,NRC Center,Tailoring,No,Unemployed,0
+TR0842,Female,23,NRC Center,Hairdressing,Yes,Employed,7000
+TR0843,Male,26,,Computing,Yes,,5000
+TR0844,Male,19,NRC Center,Hairdressing,Yes,Self-Employed,1000
+TR0845,Male,32,LWF Skills Hub,,Yes,Employed,1000
+TR0846,Male,,NRC Center,Carpentry,Yes,,1000
+TR0847,,22,,Carpentry,,Self-Employed,5000
+TR0848,Female,23,Windle Trust,Tailoring,Yes,Self-Employed,7000
+TR0849,,,LWF Skills Hub,Computing,Yes,Self-Employed,5000
+TR0850,Female,,Windle Trust,Carpentry,,Employed,0
+TR0851,Male,,NRC Center,Agriculture,Yes,Employed,0
+TR0852,Female,38,Windle Trust,Carpentry,Yes,Self-Employed,1000
+TR0853,Male,30,LWF Skills Hub,Agriculture,No,Self-Employed,2000
+TR0854,Male,39,Windle Trust,Tailoring,Yes,Employed,1000
+TR0855,Male,37,Windle Trust,Tailoring,Yes,Employed,2000
+TR0856,Male,37,Windle Trust,Carpentry,,Employed,5000
+TR0857,Male,20,LWF Skills Hub,Hairdressing,,Self-Employed,0
+TR0858,Male,39,Windle Trust,Agriculture,Yes,Self-Employed,2000
+TR0859,Female,16,,Computing,Yes,Unemployed,5000
+TR0860,Male,41,NRC Center,Carpentry,Yes,Employed,0
+TR0861,,19,LWF Skills Hub,Computing,,Self-Employed,2000
+TR0862,Male,,Windle Trust,Carpentry,Yes,Employed,1000
+TR0863,Female,35,LWF Skills Hub,Hairdressing,Yes,Self-Employed,1000
+TR0864,Female,34,Windle Trust,Hairdressing,Yes,Employed,1000
+TR0865,Female,18,Windle Trust,Hairdressing,No,Self-Employed,5000
+TR0866,Male,35,Windle Trust,,,Unemployed,1000
+TR0867,Male,26,NRC Center,Tailoring,Yes,Unemployed,7000
+TR0868,Female,32,,Tailoring,Yes,,0
+TR0869,Male,42,NRC Center,Agriculture,Yes,Self-Employed,5000
+TR0870,Female,,LWF Skills Hub,Computing,Yes,Self-Employed,1000
+TR0871,Male,26,,Carpentry,Yes,Employed,0
+TR0872,,,,Carpentry,Yes,Self-Employed,2000
+TR0873,Female,,LWF Skills Hub,,Yes,Employed,1000
+TR0874,Male,41,Windle Trust,Carpentry,Yes,Self-Employed,0
+TR0875,,17,Windle Trust,Tailoring,,Employed,7000
+TR0876,Male,,Windle Trust,Agriculture,Yes,Self-Employed,2000
+TR0877,,24,NRC Center,,Yes,Employed,7000
+TR0878,Female,24,LWF Skills Hub,Agriculture,Yes,,0
+TR0879,Male,23,,Hairdressing,Yes,,7000
+TR0880,Male,32,LWF Skills Hub,Hairdressing,Yes,Self-Employed,0
+TR0881,Male,16,Windle Trust,Hairdressing,Yes,Employed,0
+TR0882,Female,40,,Agriculture,Yes,Unemployed,7000
+TR0883,Male,,LWF Skills Hub,Carpentry,Yes,Self-Employed,0
+TR0884,Female,26,LWF Skills Hub,Computing,,Unemployed,
+TR0885,,23,Windle Trust,,,,0
+TR0886,Male,25,NRC Center,Hairdressing,No,Unemployed,5000
+TR0887,Male,40,NRC Center,Hairdressing,Yes,Employed,0
+TR0888,Female,,NRC Center,,Yes,Self-Employed,5000
+TR0889,Female,18,Windle Trust,Hairdressing,Yes,Self-Employed,0
+TR0890,Male,18,NRC Center,Computing,Yes,Employed,0
+TR0891,Male,33,Windle Trust,Hairdressing,Yes,Unemployed,7000
+TR0892,Male,20,Windle Trust,Agriculture,No,Employed,1000
+TR0893,Male,27,Windle Trust,Agriculture,,Employed,1000
+TR0894,Male,27,LWF Skills Hub,Computing,Yes,Unemployed,2000
+TR0895,Female,34,NRC Center,Agriculture,,Employed,7000
+TR0896,Female,21,NRC Center,Computing,No,,7000
+TR0897,Female,17,Windle Trust,Agriculture,Yes,Self-Employed,1000
+TR0898,Female,,Windle Trust,Agriculture,Yes,Self-Employed,7000
+TR0899,Male,34,NRC Center,Computing,Yes,Employed,1000
+TR0900,Male,20,,,Yes,Self-Employed,7000
+TR0901,Male,27,,Agriculture,Yes,Self-Employed,0
+TR0902,Female,42,LWF Skills Hub,Hairdressing,Yes,,1000
+TR0903,Female,42,Windle Trust,Carpentry,,Self-Employed,1000
+TR0904,Male,32,NRC Center,Computing,Yes,Self-Employed,5000
+TR0905,,44,Windle Trust,Carpentry,Yes,Self-Employed,7000
+TR0906,Female,32,NRC Center,Tailoring,Yes,Employed,
+TR0907,Female,25,NRC Center,Tailoring,No,Self-Employed,1000
+TR0908,Male,,Windle Trust,Agriculture,No,Self-Employed,0
+TR0909,Male,38,LWF Skills Hub,Agriculture,Yes,Unemployed,0
+TR0910,Female,32,NRC Center,Hairdressing,Yes,,
+TR0911,Male,30,NRC Center,Carpentry,Yes,Employed,7000
+TR0912,,27,NRC Center,Tailoring,Yes,Employed,5000
+TR0913,Male,,LWF Skills Hub,,Yes,Employed,1000
+TR0914,Female,39,LWF Skills Hub,Carpentry,Yes,Self-Employed,2000
+TR0915,Female,34,Windle Trust,,Yes,,5000
+TR0916,Female,23,LWF Skills Hub,Agriculture,Yes,Unemployed,2000
+TR0917,Female,36,Windle Trust,,Yes,Unemployed,5000
+TR0918,Female,,Windle Trust,Tailoring,Yes,Employed,0
+TR0919,Female,38,LWF Skills Hub,Agriculture,Yes,Unemployed,7000
+TR0920,Female,20,Windle Trust,Computing,Yes,Unemployed,2000
+TR0921,Male,37,LWF Skills Hub,Agriculture,Yes,Employed,5000
+TR0922,Male,31,Windle Trust,,Yes,Employed,7000
+TR0923,Male,,LWF Skills Hub,Hairdressing,Yes,Unemployed,2000
+TR0924,Male,23,LWF Skills Hub,Hairdressing,Yes,Self-Employed,1000
+TR0925,Male,40,Windle Trust,Hairdressing,,Unemployed,5000
+TR0926,Male,33,NRC Center,,Yes,Unemployed,1000
+TR0927,Male,40,Windle Trust,Computing,Yes,Self-Employed,0
+TR0928,,27,LWF Skills Hub,Agriculture,Yes,Self-Employed,
+TR0929,Female,,NRC Center,Hairdressing,No,Employed,1000
+TR0930,Male,42,,Computing,Yes,Employed,5000
+TR0931,Male,41,Windle Trust,Tailoring,Yes,Unemployed,0
+TR0932,,24,Windle Trust,Agriculture,No,Self-Employed,1000
+TR0933,Male,28,NRC Center,Carpentry,Yes,Employed,7000
+TR0934,,41,LWF Skills Hub,Agriculture,Yes,Unemployed,2000
+TR0935,Female,30,Windle Trust,Carpentry,Yes,Self-Employed,1000
+TR0936,Male,25,Windle Trust,Hairdressing,,Unemployed,
+TR0937,Female,31,Windle Trust,Carpentry,Yes,Employed,1000
+TR0938,Male,22,Windle Trust,Hairdressing,Yes,Employed,2000
+TR0939,Female,32,Windle Trust,,No,Self-Employed,0
+TR0940,,38,LWF Skills Hub,Carpentry,,Unemployed,5000
+TR0941,,41,LWF Skills Hub,,Yes,Self-Employed,0
+TR0942,Male,36,Windle Trust,,Yes,Employed,5000
+TR0943,Female,37,,,Yes,Employed,0
+TR0944,Male,41,LWF Skills Hub,Computing,,Unemployed,2000
+TR0945,Male,22,NRC Center,Hairdressing,No,Unemployed,2000
+TR0946,Male,29,LWF Skills Hub,Carpentry,Yes,Unemployed,0
+TR0947,Male,30,Windle Trust,Hairdressing,Yes,Self-Employed,1000
+TR0948,Female,36,LWF Skills Hub,Agriculture,,Unemployed,2000
+TR0949,Female,22,Windle Trust,Tailoring,Yes,Unemployed,
+TR0950,,24,LWF Skills Hub,Hairdressing,Yes,Employed,5000
+TR0951,Male,34,Windle Trust,Carpentry,Yes,Employed,7000
+TR0952,Female,31,Windle Trust,Computing,Yes,Unemployed,5000
+TR0953,,23,Windle Trust,Tailoring,,Unemployed,7000
+TR0954,Female,33,Windle Trust,Computing,Yes,Employed,0
+TR0955,Male,42,NRC Center,Hairdressing,No,Unemployed,0
+TR0956,Male,38,Windle Trust,Agriculture,Yes,Self-Employed,0
+TR0957,Female,44,NRC Center,Agriculture,Yes,Self-Employed,1000
+TR0958,Male,33,NRC Center,Carpentry,,Self-Employed,
+TR0959,Female,35,Windle Trust,Agriculture,Yes,Unemployed,7000
+TR0960,Male,22,NRC Center,Tailoring,Yes,Employed,5000
+TR0961,Male,18,LWF Skills Hub,Agriculture,Yes,Unemployed,5000
+TR0962,Male,33,Windle Trust,Carpentry,Yes,Unemployed,0
+TR0963,Female,42,NRC Center,Hairdressing,Yes,Employed,2000
+TR0964,Male,25,Windle Trust,Hairdressing,Yes,Employed,1000
+TR0965,Male,22,Windle Trust,Agriculture,Yes,Employed,1000
+TR0966,Male,32,Windle Trust,Computing,Yes,Self-Employed,
+TR0967,Male,29,NRC Center,Hairdressing,,Unemployed,1000
+TR0968,Female,39,LWF Skills Hub,Agriculture,Yes,Employed,
+TR0969,Female,18,LWF Skills Hub,Carpentry,Yes,Unemployed,7000
+TR0970,Male,27,NRC Center,Agriculture,Yes,Self-Employed,5000
+TR0971,Female,43,Windle Trust,Hairdressing,Yes,Self-Employed,
+TR0972,Male,28,NRC Center,Carpentry,Yes,Employed,5000
+TR0973,Male,,NRC Center,Agriculture,Yes,Employed,5000
+TR0974,Male,18,NRC Center,Tailoring,Yes,Unemployed,7000
+TR0975,Female,20,Windle Trust,Carpentry,Yes,Employed,1000
+TR0976,Female,26,NRC Center,Tailoring,Yes,Unemployed,2000
+TR0977,Female,23,Windle Trust,Computing,No,Employed,1000
+TR0978,Female,41,NRC Center,Carpentry,,Unemployed,5000
+TR0979,Female,38,LWF Skills Hub,Tailoring,,Unemployed,0
+TR0980,Female,38,NRC Center,Hairdressing,Yes,Unemployed,5000
+TR0981,Female,27,NRC Center,Hairdressing,Yes,Unemployed,
+TR0982,Female,22,LWF Skills Hub,Computing,Yes,Self-Employed,5000
+TR0983,Female,30,Windle Trust,Carpentry,Yes,Unemployed,0
+TR0984,Male,,,,No,Employed,
+TR0985,Female,32,NRC Center,Carpentry,Yes,,1000
+TR0986,Female,19,LWF Skills Hub,,Yes,Self-Employed,5000
+TR0987,Female,44,Windle Trust,Carpentry,Yes,Unemployed,1000
+TR0988,Female,37,NRC Center,Hairdressing,Yes,Self-Employed,7000
+TR0989,Female,40,LWF Skills Hub,Tailoring,,,5000
+TR0990,Female,28,Windle Trust,Hairdressing,Yes,Employed,5000
+TR0991,Female,,Windle Trust,Hairdressing,Yes,Unemployed,1000
+TR0992,Female,16,LWF Skills Hub,Tailoring,Yes,,1000
+TR0993,Female,31,LWF Skills Hub,Hairdressing,No,,0
+TR0994,Female,28,,Computing,No,Unemployed,7000
+TR0995,Female,25,LWF Skills Hub,Tailoring,Yes,,0
+TR0996,Male,,,Hairdressing,,Employed,5000
+TR0997,Male,17,LWF Skills Hub,,No,Self-Employed,1000
+TR0998,Female,38,Windle Trust,Hairdressing,No,Employed,
+TR0999,,18,Windle Trust,Computing,Yes,Self-Employed,5000
+TR1000,Male,25,NRC Center,Carpentry,Yes,Employed,2000
