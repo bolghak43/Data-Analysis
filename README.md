@@ -2,7 +2,7 @@
 
 
 ### 1. Business Summary
-This project focuses on analyzing youth vocational skills training programs in the Kakuma Refugee Camp and understanding how these programs relate to employment outcomes and post-training income. 
+This project focuses on analyzing youth vocational skills training programs in the Kakuma Refugee Camp and understanding how these programs relate to employment outcomes and post-training income.  
 
 Using the kakuma_skills_training.csv dataset and the information provided in the project brief and capstone presentation, the study aims to evaluate performance by skill type, training center, age, and gender to determine which factors most influence youth employment success in the camp environment.
 
