@@ -1,6 +1,6 @@
 # Youth Skills Training and Employment Outcomes Project
 
-
+ 
 ### 1. Business Summary
 This project focuses on analyzing youth vocational skills training programs in the Kakuma Refugee Camp and understanding how these programs relate to employment outcomes and post-training income. 
 
